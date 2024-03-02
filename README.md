@@ -1,0 +1,2 @@
+# BullGPT
+WormGPT Brother 😈😈
