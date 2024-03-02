@@ -12,7 +12,7 @@ WormGPT!.<br>
     1. apt update && apt upgrade
     2. apt install git
     3. apt install python3
-    4. git clone https://github.com/MrSanZz/BullGPT
+    4. git clone https://github.com/CyberBoy0121/BullGPT
     5. cd BullGPT
     6. python3 BuLLGPT.py
     
