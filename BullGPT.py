@@ -241,7 +241,7 @@ def testapikey():
 
     fip = '192.154.4.5'
 
-    api_key = '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'
+    api_key = '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'
 
     url = "https://api.openai.com/v1/chat/completions"
 
@@ -289,7 +289,7 @@ def testapikey():
 
         print('Your Api Key Is Valid, Enjoy!.')
 
-        api_key = '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'
+        api_key = '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'
 
     return api_key
 
